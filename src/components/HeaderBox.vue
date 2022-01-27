@@ -4,7 +4,7 @@
             <img src="../assets/dc-logo.png" alt="">
         </div>
         <nav>
-            <ul>
+            <ul class="txt-style">
                 <li>CHARACTERS</li>
                 <li>COMICS</li>
                 <li>MOVIES</li>
