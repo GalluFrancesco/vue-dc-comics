@@ -4,6 +4,7 @@
     <jumbotron-box />
     <market-box />
     <footer-box />
+    <social-box />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import MarketBox from './components/MarketBox.vue'
 import HeaderBox from './components/HeaderBox.vue'
 import JumbotronBox from './components/JumbotronBox.vue'
 import FooterBox from './components/FooterBox.vue'
+import SocialBox from './components/SocialBox.vue'
 
 
 export default {
@@ -20,7 +22,8 @@ export default {
     HeaderBox,
     JumbotronBox,
     MarketBox,
-    FooterBox
+    FooterBox,
+    SocialBox
     
   }
 }
